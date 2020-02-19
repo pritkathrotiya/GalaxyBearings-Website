@@ -1,4 +1,4 @@
-#galaxybearing version 1.1
+#galaxybearing
 
 new website under devlopment 
 suggest me if any good changes you like it
