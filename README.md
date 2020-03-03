@@ -1,4 +1,4 @@
-#galaxybearing
+galaxybearing
 
 new website under devlopment 
 suggest me if any good changes you like it
