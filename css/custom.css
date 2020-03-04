@@ -61,8 +61,12 @@
    	-ms-transform: translateY(-5px);
     transform: translateY(-5px);
 }
-.hover-navbar:hover{
+@media (hover: hover)
+{
+  .hover-navbar:hover
+  {
   transform: scale(1.03);
+  }
 }
 .hover-footer:hover{
   transform: scale(1.02);
@@ -75,22 +79,25 @@
  {
  	margin-top: -30px;
 }
-a.hover-left
+@media (hover: hover)
 {
-  position: relative;
-}
-a.hover-left:before {
-  content: "";
-  position: absolute;
-  width: 0;
-  height: 2px;
-  bottom: 0;
-  left: 0;
-  background-color: #86bc42;
-  visibility: hidden;
-  transition: all 0.5s ease-in-out;
-}
-a.hover-left:hover:before {
-  visibility: visible;
-  width: 100%;
+  a.hover-left
+  {
+    position: relative;
+  }
+  a.hover-left:before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #86bc42;
+    visibility: hidden;
+    transition: all 0.5s ease-in-out;
+  }
+  a.hover-left:hover:before {
+    visibility: visible;
+    width: 100%;
+  }
 }
