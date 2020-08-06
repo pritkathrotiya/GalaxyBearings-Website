@@ -1,4 +1,5 @@
-galaxybearing
+# Galaxy Bearings
 
-all copyright clime by www.galaxybearings.com
-all content is registerd by galaxybearing
+I create website using bootstrap, css, html and some third party components. 
+
+All content, photos and text is copyright by www.galaxybearings.com
